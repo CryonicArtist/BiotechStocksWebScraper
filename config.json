@@ -1,0 +1,7 @@
+{
+    "alphavantage_api_key": "your_api_key_here",
+    "scraper_settings": {
+      "max_retries": 3,
+      "timeout": 10
+    }
+  }
